@@ -12,7 +12,7 @@
 
         - 키보드에 영어(미국) 추가
 
-            ![centos7%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%203f289f47121f43c9b3408c4da18660b8/Untitled.png](centos7%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B5%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC%203f289f47121f43c9b3408c4da18660b8/Untitled.png)
+            ![centos](https://github.com/jes9401/data_pipeline/blob/main/image/centos7/cent0.png?raw=true)
 
         - 소프트웨어 선택을 누른 후 개발 및 창조를 위한 워크스텡션 선택
 
